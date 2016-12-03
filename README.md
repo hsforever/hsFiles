@@ -1,1 +1,1 @@
-# hsStores
+# hsFiles
